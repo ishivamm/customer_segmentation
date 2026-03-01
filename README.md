@@ -13,7 +13,7 @@ This project uses KMeans clustering to segment customers based on:
 ## How to Run
 
 1. Install requirements:
-  ``` pip install -r requirements.txt
+  pip install -r requirements.txt
 
 2. Run Streamlit app:
-  `` streamlit run app.py
+    streamlit run app.py
